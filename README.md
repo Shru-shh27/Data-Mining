@@ -10,7 +10,6 @@ A collection of Data Mining concepts, algorithms, and practical implementations 
 - 📈 Exploratory Data Analysis (EDA)
 - 🤖 Classification Algorithms
 - 🎯 Clustering Techniques
-- 🔍 Association Rule Mining
 - 📊 Data Visualization
 - 📉 Model Evaluation
 - 📁 Sample Datasets
