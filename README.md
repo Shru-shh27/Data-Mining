@@ -22,7 +22,7 @@ A collection of Data Mining concepts, algorithms, and practical implementations 
 - Python 3.x
 - Jupyter Notebook
 - Pandas
-- NumPy
+- NumPys
 - Matplotlib
 - Seaborn
 - Scikit-learn
