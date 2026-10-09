@@ -1,6 +1,6 @@
 # 📊 Data Mining
 
-A collection of Data Mining concepts, algorithms, and practical implementations using Python. This repository contains notebooks, datasets, and projects that demonstrate various data mining techniques including data preprocessing, classification, clustering, association rule mining, and visualization.
+A collection of Data Mining concepts, algorithms, and practical implementations using Python. This repository contains notebooks, datasets, and projects that demonstrate various data mining techniques including data preprocessing, classification, clustering, association rules mining, and visualization.
 
 ---
 
