@@ -7,7 +7,7 @@ A collection of Data Mining concepts, algorithms, and practical implementations 
 ## 🚀 Features
 
 - 📂 Data Preprocessing
-- 📈 Exploratory Data Analysis (EDA)
+- 📈 Exploratory Data Analysis(EDA)
 - 🤖 Classification Algorithms
 - 🎯 Clustering Techniques
 - 📊 Data Visualization
