@@ -11,7 +11,7 @@ A collection of Data Mining concepts, algorithms, and practical implementations 
 - 🤖 Classification Algorithms
 - 🎯 Clustering Techniques
 - 📊 Data Visualization
-- 📉 Model Evaluation
+- 📉 Model Evaluation's
 - 📁 Sample Datasets
 - 📝 Jupyter Notebooks
 
